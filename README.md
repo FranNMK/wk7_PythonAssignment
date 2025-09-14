@@ -34,7 +34,7 @@ pip install pandas matplotlib seaborn numpy
 4. Run the script:
 
 ```bash
-python data_analysis.py
+python assignment.py
 ```
 
 ---
